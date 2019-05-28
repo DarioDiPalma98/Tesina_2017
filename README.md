@@ -11,5 +11,8 @@ Developing a device able to record and return the waves used to open and close a
 
 The built component consists of a 433 MHZ RF TX MODULE and another 433MHZ RF RX module, used as Receiver and Transmitter, soldered to an external 2.0 sound card.
 # Demonstration
--1) Signal recording from car key
+**1) Signal recording from car key**<br>
 ![Signal_recording](https://github.com/DarioDiPalma98/Tesina_2017/blob/master/Signal_recording.gif?raw=true)
+#
+
+
